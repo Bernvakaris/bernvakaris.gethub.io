@@ -4,7 +4,7 @@ document.getElementById("quizForm").addEventListener("submit", function(event) {
     var answer = document.getElementById("answer").value;
 
     // Patikrinti, ar atsakymas teisingas (pavyzdžiui, atitinka kokį nors žodį)
-    if (answer.trim().toLowerCase() === "jungleking") {
+    if (answer.trim().toLowerCase() === "jungle") {
         // Nukreipkite į kitą puslapį
         window.location.href = "19_puslapis.html";
     } else {
