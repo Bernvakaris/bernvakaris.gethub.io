@@ -1,0 +1,16 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.heading {
+    color: #007bff;
+    font-size: 36px;
+    font-family: 'Arial', sans-serif;
+}
+
+.content {
+    color: #333;
+    font-size: 18px;
+}
